@@ -1,2 +1,2 @@
 # HomemadeNeuralNetwork
-I know the thoery, it's time have fun.
+I know about thoery, it's time to have fun.
